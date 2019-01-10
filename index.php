@@ -46,9 +46,9 @@ $smarty->assign('strona',$strona);
 
 if ($_GET['cm']=='something'){$v="index.tpl";}
 else {$v="index2.tpl";}
-//$v="index.tpl";
+
 $smarty->display($v);
-// renderujemy widok z szablonu index.tpl
+
 ?>
 
 
