@@ -1,0 +1,1 @@
+to jest text2 z pliku text2
